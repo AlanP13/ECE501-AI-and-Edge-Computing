@@ -24,7 +24,5 @@ inspection. The system can be deployed in various agricultural settings, such as
 greenhouses, and nurseries, assisting farmers, agronomists, and researchers in mitigating plant 
 diseases and ensuring sustainable crop production. 
 
-### Keywords: Plant disease detection, deep learning, convolutional neural networks, environmental 
-sensors, thermal imaging, Vapor Pressure Deficit (VPD), disease risk assessment, automated 
-system. 
+### Keywords: Plant disease detection, deep learning, convolutional neural networks, environmental sensors, thermal imaging, Vapor Pressure Deficit (VPD), disease risk assessment, automated system. 
 
